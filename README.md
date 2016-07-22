@@ -1,7 +1,5 @@
 # Hola-Mundo
 
-Just another repository
-
 Hi Humans!
 
 Estoy investigando GitHub.
